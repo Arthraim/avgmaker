@@ -1,0 +1,1 @@
+build a easy AVG game via easy script language
